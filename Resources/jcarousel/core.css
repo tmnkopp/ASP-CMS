@@ -1,0 +1,52 @@
+#wrap  ul, #wrap  ol {
+    margin-left 0;
+}
+
+#wrap  ul ul {
+    margin-bottom: 20px;
+}
+
+#wrap {
+    margin: 0px auto; 
+    position:relative;
+}
+ 
+#wrap table {
+    font-size: inherit;
+    border: 0px solid #c8c8c8;
+}
+
+#wrap  th {
+    background: #d8d8d8;
+    text-align: left;
+    padding: 5px;
+    white-space: nowrap;
+}
+
+#wrap  td { 
+    text-align: left;
+    padding: 5px;
+    vertical-align: top;
+}
+
+#wrap  select, #wrap  input, #wrap  textarea {
+    font: 99% "Trebuchet MS", Trebuchet, Tahoma, Verdana, Arial, sans-serif;
+}
+
+#wrap  pre, #wrap  code, #wrap  tt, #wrap  dt {
+    font: 100% monospace;
+    margin: 20px 0;
+}
+
+#wrap  pre, #wrap  blockquote {
+    padding: 15px;
+    background-color: #f0f0f0;
+    margin: 20px 0;
+    -moz-border-radius: 10px;
+}
+
+#wrap  td pre {
+    font: 85% monospace;
+    padding: 5px;
+    margin: 5px 0;
+}

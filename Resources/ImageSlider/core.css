@@ -1,0 +1,49 @@
+﻿/*--Main Container--*/
+.main_view {
+	float: left;
+	position: relative;
+}
+/*--Window/Masking Styles--*/
+.window {
+	height:303px;	width: 800px;
+	overflow: hidden; /*--Hides anything outside of the set width/height--*/
+	position: relative;
+}
+.image_reel {
+	position: absolute;
+	top: 0; left: 0;
+}
+.image_reel img {float: left; border:0px;}
+
+/*--Paging Styles--*/
+.paging {
+	position: absolute;
+	bottom: 10px; right: -21px;
+	width: 210px; 
+	z-index: 100; /*  height:74px;      --Assures the paging stays on the top layer--*/
+	text-align: center;
+	line-height: 40px;
+	
+	/* background: #1a6ba4 ;  url(/images/slidebg.png) no-repeat  */
+	display: none; /*--Hidden by default, will be later shown with jQuery--*/
+}
+.paging a 
+{ 
+    font-family:arial;
+    margin:0px 3px;
+    font-size:0px !important;
+    background: rgba(256, 256, 256, 0.7);
+    filter: alpha(opacity = 70);
+	padding: 6px;
+	text-decoration: none;
+	color: #fff !important; 
+	border: 0px solid #333;
+}
+.paging a.active , .paging a:hover 
+{ 
+    background: rgba(256, 256, 256, 1.0);
+    filter: alpha(opacity = 100);
+    font-weight: bold;
+    text-decoration:none !important;
+} 
+ 

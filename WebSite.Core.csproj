@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F296C4EB-60F0-4B4B-892F-7A3CF168D2B7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebSite.Core</RootNamespace>
+    <AssemblyName>WebSite.Core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.31106.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ajax\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ASPXCore">
+      <HintPath>..\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXCore.dll</HintPath>
+    </Reference>
+    <Reference Include="SqlHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SqlHelper20\SqlHelper\bin\Debug\SqlHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Ajax, Version=3.0.31106.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ajax\System.Web.Ajax.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\AccessStyles.cs" />
+    <Compile Include="Controls\CBLArticleCats.cs" />
+    <Compile Include="Controls\CBLEntity.cs" />
+    <Compile Include="Controls\ContentArea.cs" />
+    <Compile Include="Controls\ContentSlider.cs" />
+    <Compile Include="Controls\CBLTags.cs" />
+    <Compile Include="Controls\Content.cs" />
+    <Compile Include="Controls\LanguageSelect.cs" />
+    <Compile Include="Controls\DDSystemLayouts.cs" />
+    <Compile Include="Controls\GalleryImageUploader.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\GoogleMap.cs" />
+    <Compile Include="Controls\ProdCatsCheckList.cs" />
+    <Compile Include="Controls\ProdMenu.cs" />
+    <Compile Include="Controls\ProdCatsMenu.cs" />
+    <Compile Include="Controls\LoginForm.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\PageContent.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\Header1.cs" />
+    <Compile Include="Controls\EntityTagList.cs" />
+    <Compile Include="Controls\GalleryImagesList.cs" />
+    <Compile Include="Controls\DDGalleryCats.cs" />
+    <Compile Include="Controls\Debug.cs" />
+    <Compile Include="Controls\ProdCatsControl.cs" />
+    <Compile Include="Controls\QuickContact.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\SocialIcons.cs" />
+    <Compile Include="BaseAdminMaster.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BaseUserControl.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormControls\GalleryImageForm.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\AdminMenu.cs" />
+    <Compile Include="Controls\ArticleArchive.cs" />
+    <Compile Include="Controls\BreadCrumbs.cs" />
+    <Compile Include="Controls\ArticleCategoryList.cs" />
+    <Compile Include="Controls\DDParentPages.cs" />
+    <Compile Include="Controls\DDSystemControl.cs" />
+    <Compile Include="Controls\DDSystemURLs.cs" />
+    <Compile Include="Controls\LoginLink.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\PageSectionForm.cs">
+    </Compile>
+    <Compile Include="Controls\SystemControl.cs" />
+    <Compile Include="Controls\PageSection.cs" />
+    <Compile Include="Controls\DynamicContentEditor.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\DynamicContentHolder.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\LinkableList.cs" />
+    <Compile Include="BaseMasterPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Helpers\ImageHelper.cs" />
+    <Compile Include="Helpers\StringExtensions.cs" />
+    <Compile Include="Helpers\Utils.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="HTTPHandlers\Redirect301Module.cs" />
+    <Compile Include="Navigation\URLTranslator.cs" />
+    <Compile Include="Helpers\DynamicContentHelper.cs" />
+    <Compile Include="Helpers\ScriptHelper.cs" />
+    <Compile Include="FormControls\SiteSettingsForm.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Globals.cs" />
+    <Compile Include="Web\Article.cs" />
+    <Compile Include="Web\ArticleCategory.cs" />
+    <Compile Include="Web\ArticleCategoryDAL.cs" />
+    <Compile Include="Web\ArticleDAL.cs" />
+    <Compile Include="Controls\ArticleList.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\BaseNavMenu.cs" />
+    <Compile Include="Controls\EventList.cs" />
+    <Compile Include="Controls\SubMenu.cs" />
+    <Compile Include="Controls\NavMenu.cs" />
+    <Compile Include="Web\ContentItem.cs" />
+    <Compile Include="Web\EntityTag.cs" />
+    <Compile Include="Web\EntityTagDAL.cs" />
+    <Compile Include="Web\Event.cs" />
+    <Compile Include="Web\EventDAL.cs" />
+    <Compile Include="Navigation\NavUtil.cs" />
+    <Compile Include="ILinkable.cs" />
+    <Compile Include="Web\GalleryCategory.cs" />
+    <Compile Include="Web\GalleryCategoryDAL.cs" />
+    <Compile Include="Web\GalleryImage.cs" />
+    <Compile Include="Web\GalleryImageDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SiteSettings.cs" />
+    <Compile Include="SiteSettingsDAL.cs" />
+    <Compile Include="HTTPHandlers\UrlRewriteModule.cs" />
+    <Compile Include="Web\ProdCategory.cs" />
+    <Compile Include="Web\ProdCategoryDAL.cs" />
+    <Compile Include="Web\ProdItem.cs" />
+    <Compile Include="Web\ProdItemDAL.cs" />
+    <Compile Include="Web\ProdItemType.cs" />
+    <Compile Include="Web\WebPage.cs" />
+    <Compile Include="Web\WebPageDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\js\jquery-latest.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\FadingSlideshow\core.css" />
+    <EmbeddedResource Include="Resources\FadingSlideshow\core.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ImageSlider\core.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ImageSlider\core.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\jcarousel\core.css" />
+    <EmbeddedResource Include="Resources\jcarousel\core.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\js\jquery-easing.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

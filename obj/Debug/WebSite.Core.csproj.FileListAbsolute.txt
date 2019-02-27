@@ -1,0 +1,150 @@
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\WebSite.Core.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\WebSite.Core.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ASPXUtils.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\System.Web.Ajax.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\System.Web.Ajax.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ASPXUtils.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\obj\Debug\WebSite.Core.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\obj\Debug\WebSite.Core.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\SqlHelper.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\SqlHelper.pdb
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\WebSite.Core.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\WebSite.Core.pdb
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ASPXUtils.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\SqlHelper.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\System.Web.Ajax.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\AjaxControlToolkit.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\System.Web.Ajax.pdb
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\SqlHelper.pdb
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\AjaxControlToolkit.pdb
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ASPXUtils.pdb
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ar\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\cs\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\de\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\es\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\fr\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\he\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\hi\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\it\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ja\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ko\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\nl\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\pt\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\ru\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\obj\Debug\WebSite.Core.dll
+F:\Users\Tim\Documents\Visual Studio 2008\Projects\WebSite.Core\obj\Debug\WebSite.Core.pdb
+K:\Websites\COM\WebSite.Core\obj\Debug\ResolveAssemblyReference.cache
+K:\Websites\COM\WebSite.Core\bin\Debug\WebSite.Core.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\WebSite.Core.pdb
+K:\Websites\COM\WebSite.Core\bin\Debug\AjaxControlToolkit.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\ASPXUtils.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\SqlHelper.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\System.Web.Ajax.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\Telerik.Web.UI.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\System.Web.Ajax.pdb
+K:\Websites\COM\WebSite.Core\bin\Debug\SqlHelper.pdb
+K:\Websites\COM\WebSite.Core\bin\Debug\AjaxControlToolkit.pdb
+K:\Websites\COM\WebSite.Core\bin\Debug\Telerik.Web.UI.xml
+K:\Websites\COM\WebSite.Core\bin\Debug\ASPXUtils.pdb
+K:\Websites\COM\WebSite.Core\bin\Debug\ar\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\cs\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\de\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\es\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\fr\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\he\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\hi\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\it\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\ja\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\ko\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\nl\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\pt\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\ru\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+K:\Websites\COM\WebSite.Core\obj\Debug\WebSite.Core.dll
+K:\Websites\COM\WebSite.Core\obj\Debug\WebSite.Core.pdb
+C:\inetpub\COM\WebSite.Core\bin\Debug\WebSite.Core.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\WebSite.Core.pdb
+C:\inetpub\COM\WebSite.Core\bin\Debug\AjaxControlToolkit.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\ASPXUtils.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\SqlHelper.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\System.Web.Ajax.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\System.Web.Ajax.pdb
+C:\inetpub\COM\WebSite.Core\bin\Debug\SqlHelper.pdb
+C:\inetpub\COM\WebSite.Core\bin\Debug\AjaxControlToolkit.pdb
+C:\inetpub\COM\WebSite.Core\bin\Debug\Telerik.Web.UI.xml
+C:\inetpub\COM\WebSite.Core\bin\Debug\ASPXUtils.pdb
+C:\inetpub\COM\WebSite.Core\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\COM\WebSite.Core\obj\Debug\WebSite.Core.dll
+C:\inetpub\COM\WebSite.Core\obj\Debug\WebSite.Core.pdb
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\WebSite.Core.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\WebSite.Core.pdb
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\AjaxControlToolkit.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\ASPXCore.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\SqlHelper.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\System.Web.Ajax.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\MSCaptcha.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\AjaxControlToolkit.pdb
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\ASPXCore.pdb
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\SqlHelper.pdb
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\System.Web.Ajax.pdb
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\MSCaptcha.xml
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\inetpub\COM\WebSite.Core2.0\obj\Debug\WebSite.Core.dll
+C:\inetpub\COM\WebSite.Core2.0\obj\Debug\WebSite.Core.pdb
+C:\inetpub\COM\WebSite.Core2.0\obj\Debug\WebSite.Core.csprojResolveAssemb
